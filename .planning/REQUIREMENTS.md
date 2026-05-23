@@ -63,19 +63,19 @@ Deferred to future release. Tracked but not in current roadmap.
 
 | Requirement | Phase | Status |
 |-------------|-------|--------|
-| CV-01 | — | Pending |
-| CV-02 | — | Pending |
-| CV-03 | — | Pending |
-| CV-04 | — | Pending |
-| CV-05 | — | Pending |
-| WEB-01 | — | Pending |
-| WEB-02 | — | Pending |
-| WEB-03 | — | Pending |
+| CV-01 | Phase 1: Core Detection & Tracking Pipeline | Pending |
+| CV-02 | Phase 1: Core Detection & Tracking Pipeline | Pending |
+| CV-03 | Phase 2: Heatmap & Trajectory Generation | Pending |
+| CV-04 | Phase 2: Heatmap & Trajectory Generation | Pending |
+| CV-05 | Phase 1: Core Detection & Tracking Pipeline | Pending |
+| WEB-01 | Phase 3: Web Dashboard | Pending |
+| WEB-02 | Phase 3: Web Dashboard | Pending |
+| WEB-03 | Phase 3: Web Dashboard | Pending |
 
 **Coverage:**
 - v1 requirements: 8 total
-- Mapped to phases: 0
-- Unmapped: 8 ⚠️
+- Mapped to phases: 8
+- Unmapped: 0 ✓
 
 ---
 *Requirements defined: 2026-05-23*
